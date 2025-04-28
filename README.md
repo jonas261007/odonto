@@ -1,4 +1,3 @@
-```markdown
 # 🦷 Dental Clinic - Premium Landing Page for Healthcare Professionals
 
 A beautiful, modern, and highly professional landing page designed specifically for dental clinics and healthcare providers.
@@ -53,6 +52,7 @@ This landing page is ready to use, easy to customize, and created with best prac
 
 ```bash
 git clone https://github.com/jonas261007/dental-clinic.git
+
 ```
 
 2. **Navigate to the folder**:
