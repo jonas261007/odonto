@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Dental Clinic</title>
+  <link rel="stylesheet" href="/css/style.css">
+  <link rel="stylesheet" href="https://unpkg.com/aos@2.3.4/dist/aos.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <header class="header">
+    <div class="container nav-container">
+      <h1 class="logo">Odonto+</h1>
+      <nav>
+        <ul class="nav-links">
+          <li><a href="#home">Home</a></li>
+          <li><a href="#services">Services</a></li>
+          <li><a href="#testimonials">Testimonials</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <section class="hero" id="home">
+    <div class="container hero-content">
+      <h2 data-aos="fade-down">Smile with Confidence</h2>
+      <p data-aos="fade-up">We transform your smile with technology and personalized care.</p>
+      <a href="#contact" class="btn-primary" data-aos="fade-up">Book an Appointment</a>
+    </div>
+  </section>
+
+  <section class="services" id="services">
+    <div class="container">
+      <h2 class="section-title" data-aos="fade-up">Our Services</h2>
+      <div class="services-grid">
+        <div class="service-card" data-aos="zoom-in">
+          <img src="https://img.icons8.com/ios-filled/100/0056b3/tooth.png" alt="Dental Cleaning">
+          <h3>Dental Cleaning</h3>
+          <p>Complete prevention for oral health.</p>
+        </div>
+        <div class="service-card" data-aos="zoom-in" data-aos-delay="100">
+          <img src="https://img.icons8.com/ios-filled/100/0056b3/clean.png" alt="Teeth Whitening">
+          <h3>Teeth Whitening</h3>
+          <p>Restore the natural shine of your smile.</p>
+        </div>
+        <div class="service-card" data-aos="zoom-in" data-aos-delay="200">
+          <img src="https://img.icons8.com/ios-filled/100/0056b3/dental-implant.png" alt="Dental Implants">
+          <h3>Dental Implants</h3>
+          <p>Safe and aesthetic replacement of lost teeth.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="testimonials" id="testimonials">
+    <div class="container">
+      <h2 class="section-title" data-aos="fade-up">What Our Patients Say</h2>
+      <div class="testimonials-grid">
+        <div class="testimonial-card" data-aos="fade-right">
+          <p>"Amazing, attentive, and professional team. My smile has never been better!"</p>
+          <span>- Ana Silva</span>
+        </div>
+        <div class="testimonial-card" data-aos="fade-up">
+          <p>"I was very well attended and left very satisfied with the service provided."</p>
+          <span>- João Pereira</span>
+        </div>
+        <div class="testimonial-card" data-aos="fade-left">
+          <p>"Welcoming environment and cutting-edge technology. Highly recommend!"</p>
+          <span>- Carla Souza</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="contact" id="contact">
+    <div class="container">
+      <h2 class="section-title" data-aos="fade-up">Book Your Appointment</h2>
+      <form class="contact-form" id="form">
+        <input type="text" id="name" placeholder="Full Name" required>
+        <input type="email" id="email" placeholder="Your Best Email" required>
+        <input type="tel" id="phone" placeholder="Phone" required>
+        <textarea id="message" placeholder="Your Message" rows="5" required></textarea>
+        <button type="submit" class="btn-primary">Submit</button>
+        <p id="form-message" class="form-message"></p>
+      </form>
+    </div>
+  </section>
+
+  <footer>
+    <div class="container">
+      <p>&copy; 2025 Dental Clinic. Developed with ❤️.</p>
+    </div>
+  </footer>
+
+  <script src="https://unpkg.com/aos@2.3.4/dist/aos.js"></script>
+  <script src="/js/script.js"></script>
+</body>
+</html>
