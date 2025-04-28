@@ -1,8 +1,3 @@
-Perfeito!  
-Aqui está uma **segunda versão** do `README.md`, ainda **mais vendedora e focada no cliente final** — como se você estivesse vendendo o projeto em um marketplace profissional:
-
----
-
 ```markdown
 # 🦷 Dental Clinic - Premium Landing Page for Healthcare Professionals
 
