@@ -1,15 +1,15 @@
-# 🦷 Dental Clinic - Premium Landing Page for Healthcare Professionals
+# 🦷 Odonto+ - Premium Landing Page for Healthcare Professionals
 
 A beautiful, modern, and highly professional landing page designed specifically for dental clinics and healthcare providers.
 
-🖥️ **Live Demo**: [View Website](https://stately-biscuit-540041.netlify.app/)
+🖥️ **Live Demo**: [View Website](https://odont0.netlify.app/)
 
 ---
 
-## 💬 Why Choose Dental Clinic?
+## 💬 Why Choose Odonto+?
 
 First impressions matter — especially in healthcare.  
-With **Dental Clinic**, you get a clean, trustworthy, and conversion-driven website that will **attract more patients** and **build your clinic’s credibility** online.
+With **Odonto+**, you get a clean, trustworthy, and conversion-driven website that will **attract more patients** and **build your clinic’s credibility** online.
 
 This landing page is ready to use, easy to customize, and created with best practices in web development.
 
@@ -52,7 +52,6 @@ This landing page is ready to use, easy to customize, and created with best prac
 
 ```bash
 git clone https://github.com/jonas261007/dental-clinic.git
-
 ```
 
 2. **Navigate to the folder**:
@@ -90,4 +89,5 @@ You can modify, redistribute, or integrate it with your own business or client p
 If you need help customizing this template, adding new features, or deploying your own version, feel free to get in touch:
 
 - **GitHub**: [@jonas261007](https://github.com/jonas261007)
-- **Live Demo**: [Dental Clinic Website](https://stately-biscuit-540041.netlify.app/)
+- **Live Demo**: [Odonto+ Website](https://odont0.netlify.app/)
+```
