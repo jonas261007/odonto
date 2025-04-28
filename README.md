@@ -90,4 +90,3 @@ If you need help customizing this template, adding new features, or deploying yo
 
 - **GitHub**: [@jonas261007](https://github.com/jonas261007)
 - **Live Demo**: [Odonto+ Website](https://odont0.netlify.app/)
-```
